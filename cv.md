@@ -52,7 +52,7 @@ function likes(names) {
 
 #### Education:
 - Marathon "I'll make it up" from htmlacademy;
-- Maratho "5 days 5 projects on Java Script" from result.school.it
+- Marathon "5 days 5 projects on Java Script" from result.school.it
 
 #### English:
 A2
