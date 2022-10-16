@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1665731372479-551841cac2c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    font-size: 15px;
+    padding: 20px;
+}
+
+.cv {
+    width: 60%;
+    text-align: left;
+    background-color: rgb(181, 209, 235);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;    
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.preface {
+    font-style: italic;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: grey;
+}
+
+.common {
+    text-align: center;
+}
+
+
+
+
+
