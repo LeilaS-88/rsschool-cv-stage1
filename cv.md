@@ -1,12 +1,8 @@
 # Salieva Leila
 
-  +905348589075
-
-  +79878109122 
+  +90**********
   
-  larapasternak@yandex.ru 
-  
-  lsalieva285@gmail.com 
+  l********************u
   
   Discord: LeilaS#3612 
   
